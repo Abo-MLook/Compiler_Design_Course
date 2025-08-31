@@ -1,0 +1,9 @@
+push y 
+push 1
+pop r1
+pop r2
+mult r2 r1
+push r2
+pop y 
+push 4
+pop x 
