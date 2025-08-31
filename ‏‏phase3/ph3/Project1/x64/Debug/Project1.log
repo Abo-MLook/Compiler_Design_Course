@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (phase3.vcxproj, Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  emitter.c
+C:\Users\memom\OneDrive\سطح المكتب\study\compailer\projects\‏‏phase3\programs\emitter.c(28,19): warning C4129: 'M': unrecognized character escape sequence
+  Project1.vcxproj -> C:\Users\memom\OneDrive\سطح المكتب\study\compailer\projects\‏‏phase3\ph3\x64\Debug\ph3.exe
