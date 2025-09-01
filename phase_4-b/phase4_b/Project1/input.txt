@@ -1,0 +1,23 @@
+function adition()
+begin
+x = x+1;
+end;
+
+function subtraction()
+begin
+x = x -1 ; 
+end;
+
+function squre()
+begin
+x = x * x;
+end;
+
+main()
+begin
+x = 1;
+adition();
+subtraction();
+squre();
+
+end

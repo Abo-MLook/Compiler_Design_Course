@@ -1,0 +1,34 @@
+adition:
+push x 
+push 1
+pop r1
+pop r2
+add r2 r1
+push r2
+pop x 
+ret
+subtraction:
+push x 
+push 1
+pop r1
+pop r2
+sub r2 r1
+push r2
+pop x 
+ret
+squre:
+push x 
+push x 
+pop r1
+pop r2
+mult r2 r1
+push r2
+pop x 
+ret
+main :
+push 1
+pop x 
+call adition
+ call subtraction
+ call squre
+ exit
